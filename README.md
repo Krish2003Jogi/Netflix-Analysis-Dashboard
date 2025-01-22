@@ -1,5 +1,5 @@
 This visual captures Netflix Analysis. Certainly! 
-Let’s dive into the insights from the provided Netflix dashboard and create a LinkedIn post for your portfolio.
+Let’s dive into the insights from the provided Netflix dashboard.
 
 Key Insights from the Netflix Dashboard:
 
